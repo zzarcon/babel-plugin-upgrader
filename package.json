@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugin-upgrader",
+  "version": "0.1.0",
+  "description": "Automatically upgrade your ES5 codebase to ES6",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzarcon/babel-plugin-upgrader.git"
+  },
+  "author": "zzarcon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzarcon/babel-plugin-upgrader/issues"
+  },
+  "homepage": "https://github.com/zzarcon/babel-plugin-upgrader#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.10.4"
+  }
+}
